@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-1.环境准备  redis mysql;
-2.数据库见测试库 dev_template_db.sql;
-
-                       
-=======
 # 1.环境准备  redis mysql
 # 2.数据库见测试库 dev_template_db.sql
 # 3.增加插件:mybatis/generator和热部署插件springloaded;
